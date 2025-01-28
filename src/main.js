@@ -1,3 +1,12 @@
+//Name: Campbell Hunter
+//Rocket Patrol II: Now With Strawberries
+//6 Hours
+//New Enemy Type - 5 Points
+//Two Player Mode - 5 Points
+//Timing/Scoring Mechenism - 5 Points
+//Particle Emitter - 5 Point
+//Citation: https://docs.phaser.io/api-documentation/class/gameobjects-particles-particleemitter
+
 let config = {
     type: Phaser.AUTO,
     width: 640,
